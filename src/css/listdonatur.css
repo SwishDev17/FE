@@ -1,0 +1,242 @@
+.listDonater {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  text-decoration: none;
+  position: absolute;
+  margin-left: auto;
+  margin-top: auto;
+}
+  
+  .nDonater {
+    position: absolute;
+    width: 83px;
+    height: 19px;
+    left: 70px;
+    top: 2px;
+  
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 19px;
+    /* identical to box height */
+  
+    display: flex;
+    align-items: center;
+  
+    /* Main */
+  
+    color: #201a1c;
+  
+    /* Inside Auto Layout */
+  
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 0px;
+  }
+  
+  .pDonater {
+    position: absolute;
+    width: 67px;
+    height: 19px;
+    left: 70px;
+    top: 19px;
+  
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    /* identical to box height */
+  
+    display: flex;
+    align-items: center;
+  
+    /* Accent */
+  
+    color: #34a898;
+  
+    /* Inside Auto Layout */
+  
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 0px 0px;
+  }
+  
+  .nDonater2 {
+    position: absolute;
+    width: 83px;
+    height: 19px;
+    left: 70px;
+    top: 45px;
+  
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 19px;
+    /* identical to box height */
+  
+    display: flex;
+    align-items: center;
+  
+    /* Main */
+  
+    color: #201a1c;
+  
+    /* Inside Auto Layout */
+  
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 0px;
+  }
+  
+  .pDonater2 {
+    position: absolute;
+    width: 67px;
+    height: 19px;
+    left: 70px;
+    top: 60px;
+  
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    /* identical to box height */
+  
+    display: flex;
+    align-items: center;
+  
+    /* Accent */
+  
+    color: #34a898;
+  
+    /* Inside Auto Layout */
+  
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 0px 0px;
+  }
+  
+  .nDonater3 {
+    position: absolute;
+    width: 83px;
+    height: 19px;
+    left: 70px;
+    top: 85px;
+  
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 19px;
+    /* identical to box height */
+  
+    display: flex;
+    align-items: center;
+  
+    /* Main */
+  
+    color: #201a1c;
+  
+    /* Inside Auto Layout */
+  
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 0px;
+  }
+  
+  .pDonater3 {
+    position: absolute;
+    width: 67px;
+    height: 19px;
+    left: 70px;
+    top: 100px;
+  
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    /* identical to box height */
+  
+    display: flex;
+    align-items: center;
+  
+    /* Accent */
+  
+    color: #34a898;
+  
+    /* Inside Auto Layout */
+  
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 0px 0px;
+  }
+  
+  .nDonater4 {
+    position: absolute;
+    width: 83px;
+    height: 19px;
+    left: 70px;
+    top: 130px;
+  
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 19px;
+    /* identical to box height */
+  
+    display: flex;
+    align-items: center;
+  
+    /* Main */
+  
+    color: #201a1c;
+  
+    /* Inside Auto Layout */
+  
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 0px;
+  }
+  
+  .pDonater4 {
+    position: absolute;
+    width: 67px;
+    height: 19px;
+    left: 70px;
+    top: 150px;
+  
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    /* identical to box height */
+  
+    display: flex;
+    align-items: center;
+  
+    /* Accent */
+  
+    color: #34a898;
+  
+    /* Inside Auto Layout */
+  
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 0px 0px;
+  }

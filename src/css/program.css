@@ -1,0 +1,269 @@
+.container-program {
+    text-decoration: none;
+    position: absolute;
+    width: 326px;
+    height: 82px;
+    top: 40px;
+  }
+  
+  .container-program2 {
+    text-decoration: none;
+    position: absolute;
+    width: 326px;
+    height: 82px;
+    left: auto;
+    top: 100px;
+  }
+  
+  .container-program3 {
+    text-decoration: none;
+    position: absolute;
+    width: 326px;
+    height: 82px;
+    left: auto;
+    top: 200px;
+  }
+  
+  .titleP {
+    background-color: #f4f9ff;
+    text-decoration: none;
+    position: absolute;
+    left: calc(50% - 181px / 2 + 69px);
+    top: 0px;
+  
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 16px;
+    /* or 133% */
+  
+    /* Main */
+  
+    color: #201a1c;
+  }
+  
+  .value {
+    position: absolute;
+    width: 117px;
+    height: 28px;
+    left: calc(50% - 117px / 2 + 30px);
+    top: 50px;
+  }
+  
+  .txtValue {
+    width: 117px;
+    height: 14px;
+    left: 10px;
+    top: 0px;
+  
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 14px;
+    /* identical to box height */
+  
+    display: flex;
+    align-items: center;
+  
+    /* Grey */
+  
+    color: #8a8aa0;
+  
+    /* Inside Auto Layout */
+  
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 0px;
+  }
+  
+  .txtTot {
+    width: 69px;
+    height: 14px;
+    left: 0px;
+    top: 14px;
+  
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 10px;
+    line-height: 14px;
+    /* identical to box height */
+  
+    display: flex;
+    align-items: center;
+  
+    color: #309a8d;
+  
+    /* Inside Auto Layout */
+  
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 0px 0px;
+  }
+  
+  .titleP2 {
+    position: absolute;
+    width: 181px;
+    height: 30px;
+    left: calc(50% - 181px / 2 + 69px);
+    top: 0px;
+  
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 16px;
+    /* or 133% */
+  
+    /* Main */
+  
+    color: #201a1c;
+  }
+  
+  .value2 {
+    position: absolute;
+    width: 117px;
+    height: 28px;
+    left: calc(50% - 117px / 2 + 30px);
+    top: 50px;
+  }
+  
+  .txtValue2 {
+    width: 117px;
+    height: 14px;
+    left: 10px;
+    top: 0px;
+  
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 14px;
+    /* identical to box height */
+  
+    display: flex;
+    align-items: center;
+  
+    /* Grey */
+  
+    color: #8a8aa0;
+  
+    /* Inside Auto Layout */
+  
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 0px;
+  }
+  
+  .txtTot2 {
+    width: 69px;
+    height: 14px;
+    left: 0px;
+    top: 14px;
+  
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 10px;
+    line-height: 14px;
+    /* identical to box height */
+  
+    display: flex;
+    align-items: center;
+  
+    color: #309a8d;
+  
+    /* Inside Auto Layout */
+  
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 0px 0px;
+  }
+  
+  .titleP3 {
+    position: absolute;
+    width: 181px;
+    height: 30px;
+    left: calc(50% - 181px / 2 + 69px);
+    top: 0px;
+  
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 16px;
+    /* or 133% */
+  
+    /* Main */
+  
+    color: #201a1c;
+  }
+  
+  .value3 {
+    position: absolute;
+    width: 117px;
+    height: 28px;
+    left: calc(50% - 117px / 2 + 30px);
+    top: 50px;
+  }
+  
+  .txtValue3 {
+    width: 117px;
+    height: 14px;
+    left: 10px;
+    top: 0px;
+  
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 14px;
+    /* identical to box height */
+  
+    display: flex;
+    align-items: center;
+  
+    /* Grey */
+  
+    color: #8a8aa0;
+  
+    /* Inside Auto Layout */
+  
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 0px;
+  }
+  
+  .txtTot3 {
+    width: 69px;
+    height: 14px;
+    left: 0px;
+    top: 14px;
+  
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 10px;
+    line-height: 14px;
+    /* identical to box height */
+  
+    display: flex;
+    align-items: center;
+  
+    color: #309a8d;
+  
+    /* Inside Auto Layout */
+  
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 0px 0px;
+  }
+  

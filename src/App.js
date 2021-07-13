@@ -1,25 +1,22 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import { BrowserRouter as Router  , Route} from 'react-router-dom'
+import Header from './components/Header'
+import BerandaScreen from './screens/BerandaScreen'
+import DetailProgramScreen from './screens/DetailProgramScreen'
+import ProgramScreen from './screens/ProgramScreen'
+import RegisterScreen from './screens/RegisterScreen'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    <Router>
+      <Header/>
+      <Route  exact path='/titipdonasi' component={BerandaScreen} />
+      <Route  path='/program' component={ProgramScreen} />
+      <Route path='/daftaragenpeduli' component={RegisterScreen}/>
+      <Route path='/detailprogram' component={DetailProgramScreen}/>
+      
+    </Router>
+  )
 }
 
-export default App;
+export default App
